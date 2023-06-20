@@ -1,5 +1,5 @@
 ---
-title: "Fondation Solide"
+title: "Lancement"
 icon: '<i class="fas fa-chart-line"></i>'
 layout: service
 ---
