@@ -1,0 +1,144 @@
+teams_settings:  
+  title: Notre équipe
+  description: Découvrez notre équipe de professionnels
+
+blogs_settings:  
+  title: Nos derniers articles
+  description: Découvrez nos derniers articles
+  button:
+    name: "Voir plus"
+    link: "/blog/"
+
+# videos_settings:  
+#   title: Nos dernières vidéos
+#   description: Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the
+#   youtube_link: "https://www.youtube.com/watch?v=iogabydg2y0"
+#   button:
+#     name: "Learn More "
+#     link: "#"
+
+services_settings:  
+  title: Nos activités
+  description: Découvrez nos activités
+
+projects_settings:  
+  title: Notre objectif
+  description: Ce que nous avons réalisé
+  button:
+    name: "Voir plus"
+    link: "#"
+  counter:
+    - icon: '<i class="fas fa-rocket"></i>'
+      name: "Projet(s) réalisé(s)"
+      count: 1
+    - icon: '<i class="fas fa-life-ring"></i>'
+      name: "Satisfied Clients"
+      count: 5
+    - icon: '<i class="fas fa-trophy"></i>'
+      name: "Prix gagnés"
+      count: 0
+    - icon: '<i class="fas fa-universal-access"></i>'
+      name: "Heures de travail"
+      count: 144
+
+portfolios_settings:  
+  title: Apprenez à nous connaître
+  description: Découvrez nos derniers projets
+  button:
+    name: "Voir plus"
+    link: "#"
+  button2:
+    name: "Discutons"
+    link: "#"
+
+cta_settings:  
+  title: "Vous voulez soutenir notre cause ?"
+  description: "Nous sommes toujours à la recherche de personnes qui partagent notre passion pour l'éducation et qui souhaitent faire une différence dans la vie des élèves. Si vous souhaitez vous impliquer, veuillez nous contacter."
+  image: "/assets/images/cta-text.png"
+  button:
+    name: "Discutons"
+    link: "#"
+  
+textimonials_settings:  
+  image: /assets/images/testimonial/1.png
+  textimonial:
+    - name: "Michele L. Racinea "
+      position: "Web Designer"
+      text: "Avoids pleasur itself because pleas because those who do not know how to pursue plesure rationally encou eque that are extrem painful again is there anyone who loves pursues or desires to obtain pain of itself."
+      image: "/assets/images/testimonial/author.png"
+    - name: "Michele L. Racinea "
+      position: "Web Designer"
+      text: "Avoids pleasur itself because pleas because those who do not know how to pursue plesure rationally encou eque that are extrem painful again is there anyone who loves pursues or desires to obtain pain of itself."
+      image: "/assets/images/testimonial/author.png"
+
+abouts_settings:  
+  title: À propos de nous
+  description: Education et Technologie
+  image: "/assets/images/about-us/1.png"
+  image2: "/assets/images/about-us/2.png"
+  text: N
+  text2: Notre mission est de briser les barrières et de renforcer l'éducation dans des environnements difficiles. Nous pensons que chaque élève, quelle que soit sa situation, mérite d'avoir accès à une éducation de qualité. Nous nous engageons à avoir un impact positif sur la vie des élèves dans les régions où l'accès à Internet, l'électricité et la stabilité sont limités. Grâce à des solutions innovantes et à notre passion pour l'éducation, nous nous efforçons de créer des opportunités et de transformer le paysage éducatif.
+  list:
+    - item: Livres numériques
+      link: "#"
+    - item: Cours hors ligne
+      link: "#"
+    - item: Ressources pédagogiques
+      link: "#"
+    - item: Partage de connaissances
+      link: "#"
+  button:
+    name: "Discutons"
+    link: "#contact"
+
+pricings_settings:  
+  title: our pricing
+  description: Popular Pricing Plan For Creative Project
+  button:
+    name: make plan 
+    link: "#"
+  list:
+    - name: '01 <span>basic</span>'
+      image: "/assets/images/price-icon.png"
+      text: '<span>$45.99/month</span>'
+      listitem:
+        - item: Web Design (UX/UI)
+        - item: Software Development
+        - item: Fashion Design (Arts)
+        - item: Web Development (php)
+      lowerlistitem:
+        - item: Game Design & DV
+        - item: Computer Hardware
+    - name: '02 <span>smart</span>'
+      image: "/assets/images/price-icon.png"
+      text: '<span>$65.99/month</span>'
+      listitem:
+        - item: Web Design (UX/UI)
+        - item: Software Development
+        - item: Fashion Design (Arts)
+        - item: Web Development (php)
+      lowerlistitem:
+        - item: Game Design & DV
+        - item: Computer Hardware
+    - name: '03 <span>Premium</span>'
+      image: "/assets/images/price-icon.png"
+      text: '<span>$103.99/month</span>'
+      listitem:
+        - item: Web Design (UX/UI)
+        - item: Software Development
+        - item: Fashion Design (Arts)
+        - item: Web Development (php)
+      lowerlistitem:
+        - item: Game Design & DV
+        - item: Computer Hardware
+404_settings:  
+  title: 404
+  description: "Oups ! La page que vous recherchez n'existe pas."
+  image: /assets/images/404.svg
+  button:
+    name: "Retour à l'accueil"
+    link: "#"
+      
+
+
+
