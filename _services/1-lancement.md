@@ -12,4 +12,4 @@ layout: service
 
 <br>
 
-<p>L'un des aspects clés de cette phase est le développement de l'infrastructure nécessaire aux hotspots. Notre équipe travaille ence moment en étroite collaboration avec des experts techniques pour concevoir et mettre en œuvre les composants matériels et logiciels nécessaires au fonctionnement optimal des hotspots. Nous utilisons des technologies innovantes et explorons des solutions créatives pour surmonter les défis posés par l'accès limité à l'internet dans notre communauté.</p>
+<p>L'un des aspects clés de cette phase est le développement de l'infrastructure nécessaire aux hotspots. Notre équipe travaille en ce moment en étroite collaboration avec des experts techniques pour concevoir et mettre en œuvre les composants matériels et logiciels nécessaires au fonctionnement optimal des hotspots. Nous utilisons des technologies innovantes et explorons des solutions créatives pour surmonter les défis posés par l'accès limité à l'internet dans notre communauté.</p>
