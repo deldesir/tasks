@@ -21,7 +21,7 @@ office_time: "Lundi - Vendredi : 08 am - 05 pm"
 # Build settings
 remote_theme: jekyll/minima
 
-environment: "development"
+environment: "production"
 
 permalink: "/:title"
 
