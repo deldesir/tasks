@@ -19,7 +19,7 @@ address: "Gonaives, Haiti"
 office_time: "Lundi - Vendredi : 08 am - 05 pm"
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 
 environment: "development"
 
@@ -29,6 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-archives
+  - jekyll-remote-theme
 
 cover_image: "/assets/img/bg/page-title.jpg"
 
