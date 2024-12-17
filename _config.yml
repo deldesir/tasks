@@ -8,14 +8,14 @@ url: "https://novaedht.org" # the base hostname & protocol for your site, e.g. h
 #General Settings
 facebook_url: "https://facebook.com/novaedht"
 twitter_url: "https://twitter.com/novaedht"
-behance_url: "https://behance.com/novaedht"
-instagram_url: "https://instagram.com/novaedht"
+# behance_url: ""
+# instagram_url: ""
 logo_url: "/assets/images/logo.png"
 
 
-copyright_text: "&copy; 2023 NovaED. Tous droits réservés."
-phone_number: "+509 42 61 49 49"
-address: "Gonaives, Haiti"
+copyright_text: "&copy; 2024 NovaED. Tous droits réservés."
+# phone_number: "+509 42 61 49 49"
+# address: "Gonaives, Haiti"
 office_time: "Lundi - Vendredi : 08 am - 05 pm"
 
 # Build settings
